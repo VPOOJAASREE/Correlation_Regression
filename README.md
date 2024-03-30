@@ -1,7 +1,7 @@
 NAME: V. POOJAA SREE / 
 REG NO.: 212223040147
 
-# Correlation and regression for data analysis
+# EX-3:  CORRELATION AND REGRESSION FOR DATA ANALYSIS 
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
